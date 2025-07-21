@@ -1,4 +1,4 @@
-# 📍 proyecto_tech
+#  proyecto_tech
 
 ## Descripción general
 
